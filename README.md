@@ -1,1 +1,2 @@
-# Bot_Discord2
+# BlitzCoveco
+Blitz Coveco Challange 
